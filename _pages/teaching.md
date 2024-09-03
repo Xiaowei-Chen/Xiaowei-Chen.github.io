@@ -7,9 +7,9 @@ author_profile: true
 
 Student Mentoring
 ------
-- Advising one Civil Engineering PhD student at Purdue University:
+- Mentored one Civil Engineering PhD student at Purdue University:
     - Resilience assessment of electric vehicle charging station networks
-- Co-mentored three Civil Engineering master students at Shenzhen Technology University:
+- Mentored three Civil Engineering master students at Shenzhen Technology University:
     - Spatial and temporal distribution of charging demand
     - EV charging location modeling and optimization
     - Deployment of mobile charging stations, 
