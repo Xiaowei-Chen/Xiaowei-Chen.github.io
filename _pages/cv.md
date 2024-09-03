@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<embed src="https://xiaowei-chen.github.io/assets/download/sample.pdf" type="application/pdf" />
+<embed src="https://xiaowei-chen.github.io/files/Xiaowei_Chen_CV.pdf" type="application/pdf" />
