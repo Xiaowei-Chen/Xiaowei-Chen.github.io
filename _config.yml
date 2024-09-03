@@ -79,6 +79,8 @@ publication_category:
   #   title: 'Books'
   manuscripts:
     title: 'Peer-Reviewed Journal Publications'    
+  manuscripts:
+    title: 'Under Review Journal Publications'
   conferences:
     title: 'Peer-Reviewed Conference/Workshop Papers'
 
