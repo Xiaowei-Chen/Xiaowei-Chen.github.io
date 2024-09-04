@@ -18,7 +18,7 @@ Teaching
 ------
 CE569: Smart Logistics
 - Graduate level, Fall 2024
-- Teaching Assistant \& Guest Lecturer 
+- Teaching Assistant and Guest Lecturer 
 — Involved in the design of slides
 - Delivered lectures on the integration of Artificial Intelligence in Smart Logistics
 
