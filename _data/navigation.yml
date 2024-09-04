@@ -20,5 +20,5 @@ main:
   #- title: "Captured Moments"
     #url: /moments/
 
-  - title: "Travel Map"
-    url: /travel_map.html  
+  #- title: "Travel Map"
+    #url: /travel_map.html  
