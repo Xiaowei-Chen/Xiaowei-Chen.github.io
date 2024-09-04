@@ -16,11 +16,11 @@ Student Mentoring
 
 Teaching
 ------
-CE597: Transportation network modeling with autonomous vehicles
+CE569: Smart Logistics
 - Graduate level, Fall 2024
-- Teaching Assistant & Guest Lecturer 
+- Teaching Assistant \& Guest Lecturer 
 — Involved in the design of slides
-- Gave lectures on modeling autonomous vehicles and demos of transportation software
+- Delivered lectures on the integration of Artificial Intelligence in Smart Logistics
 
 Teaching Interests 
 ------
