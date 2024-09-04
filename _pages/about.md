@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Xiaowei Chen, a Postdoctoral Associate at the Lyles School of Civil Engineering, Purdue University. My research is dedicated to optimizing _Electric and Shared Mobility systems_ to enhance their efficiency, robustness, and sustainability. By integrating _data analysis, machine learning, reinforcement learning techniques, optimization methodologies, and agent-based simulators_, I develop innovative operational strategies and models that address the critical challenges of modern transportation systems.
+I am Xiaowei Chen, a Postdoctoral Associate at the Lyles School of Civil Engineering, Purdue University. My research is dedicated to optimizing _**Electric and Shared Mobility systems**_ to enhance their efficiency, robustness, and sustainability. By integrating _**data analysis, machine learning, reinforcement learning techniques, optimization methodologies, and agent-based simulators**_, I develop innovative operational strategies and models that address the critical challenges of modern transportation systems.
 
 My work spans several key areas, including <u>Synthesis Datasets Generation & Data Analytics<u>, <u>Operational Model Development<u>, and <u>System Performance & Equity Evaluation<u>. I am dedicated to establishing a strong bridge between theory and practice, continuously seeking opportunities to bring cross-disciplinary insights to bear on long-standing challenges.
 
