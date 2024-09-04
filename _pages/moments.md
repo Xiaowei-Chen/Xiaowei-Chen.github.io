@@ -5,4 +5,4 @@ permalink: /moments/
 author_profile: true
 ---
 
-<iframe src="/js/travel_map.html" height="700" width="850" style="border:none;"></iframe>
+<iframe style="max-width: 100%" frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="750px"src="/js/travel_map.html"></iframe>
