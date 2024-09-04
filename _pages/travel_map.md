@@ -12,5 +12,5 @@ author_profile: true
       marginheight="0" 
       width="100%" 
       height="750px" 
-      src="js/travel_map.html">                                        
+      src="/js/travel_map.html">                                        
 </iframe>
