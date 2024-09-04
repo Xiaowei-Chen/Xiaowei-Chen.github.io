@@ -17,8 +17,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Captured Moments"
-    url: /moments/
+  #- title: "Captured Moments"
+    #url: /moments/
 
-  - title: "tests"
-    url: /talkmap.html    
+  - title: "Travel Map"
+    url: /travelmap.html    
