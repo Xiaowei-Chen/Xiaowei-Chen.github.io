@@ -16,11 +16,11 @@ Student Mentoring
 
 Teaching
 ------
-CE569: Smart Logistics
+CE 661: Algorithms in Transportation
 - Graduate level, Fall 2024
 - Teaching Assistant & Guest Lecturer
 - Involved in the design of slides
-- Delivered lectures on the integration of Artificial Intelligence in Smart Logistics
+- Delivered lectures on machine learning algorithms and their implementation using Python. Advised students on their course projects.
 
 Teaching Interests 
 ------
