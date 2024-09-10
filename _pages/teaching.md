@@ -19,7 +19,7 @@ Teaching
 CE 661: Algorithms in Transportation
 - Graduate level, Fall 2024
 - Teaching Assistant & Guest Lecturer
-- Involved in the design of slides
+- Involved in the design of syllabus, slides, homework, exam
 - Delivered lectures on machine learning algorithms and their implementation using Python. Advised students on their course projects.
 
 Teaching Interests 
